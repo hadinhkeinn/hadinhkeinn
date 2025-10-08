@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Đình Kiên</h1>  
+<h1 align="center">Hi 👋, I'm Đinh Kiên</h1>  
 <h3 align="center">A passionate backend developer</h3>  
 
 <p align="center">  
@@ -18,7 +18,7 @@
 <h3 align="left">⚙️ Tech Stack</h3>  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,java,js,typescript,nextjs,react,tailwind,mysql,scylladb,redis,docker&theme=light" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,js,typescript,nextjs,react,tailwind,mysql,cassandra,docker&theme=light" height="40" />
 </p>
 
 ---
